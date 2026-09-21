@@ -1,4 +1,4 @@
-HTML + CSS + JS. Extensions manager. The project that I am by far the most proud of so far.
+HTML + CSS + JS. Extensions manager. The project that I am by far the most proud of so far. (outdated since the Weather App)
 My skills shown in this project:
 - JavaScript architecture (state -> save -> render, single source of truth)
 - Async/await data fetching with error handling
