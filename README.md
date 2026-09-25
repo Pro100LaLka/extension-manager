@@ -12,4 +12,4 @@ My skills shown in this project:
 - BEM naming
 - <dialog> with promise-based confirmation
 
-https://pro100lalka.github.io/21.Browser-Extension-Manager/
+https://pro100lalka.github.io/extension-manager/
